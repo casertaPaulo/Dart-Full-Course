@@ -16,10 +16,10 @@ Este repositório contém informações e projetos relacionados ao meu curso de 
 
 ## Progresso
  * ✅Aula 1: Setup
- * 🔲Aula 2: Fundamentals
- * 🔲Aula 3: Data Types
- * 🔲Aula 4: String, Type Conversion, Constant, null
- * 🔲Aula 5: Operators
+ * ✅Aula 2: Fundamentals
+ * ✅Aula 3: Data Types
+ * ✅Aula 4: String, Type Conversion, Constant, null
+ * ✅Aula 5: Operators
  * 🔲Aula 6: Loop
  * 🔲Aula 7: Collections [ List, Set, Map ]
  * 🔲Aula 8: Function
