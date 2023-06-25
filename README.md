@@ -13,7 +13,8 @@ Este repositório contém informações e projetos relacionados ao meu curso de 
 * **Projetos**: Esta pasta conterá os projetos desenvolvidos durante o curso. Cada projeto terá seu próprio diretório com o código fonte, instruções de instalação e documentação.
 * **Recursos**: Aqui, vou compartilhar links, tutoriais e quaisquer outros recursos úteis que eu encontrar durante o curso.
 * **Notas**: Manterei minhas anotações pessoais neste repositório, documentando conceitos-chave, exemplos de código e dicas importantes.
-Progresso
+
+## Progresso
  * ✅Aula 1: Setup
  * 🔲Aula 2: Fundamentals
  * 🔲Aula 3: Data Types
