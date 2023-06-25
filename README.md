@@ -5,8 +5,8 @@ Este repositório contém informações e projetos relacionados ao meu curso de 
 
 ## Sobre o Curso
 * **Linguagem**: Dart
-* **Instituição**: [freecodeCamp.org]
-* **Duração**: [2 Horas]
+* **Instituição**: [codemy.com]
+* **Duração**: [1h e 20]
 * **Objetivo**: Aprender os fundamentos da linguagem Dart e desenvolver habilidades de programação para construir aplicativos eficientes e escaláveis.
 
 ## Conteúdo do Repositório
@@ -14,18 +14,18 @@ Este repositório contém informações e projetos relacionados ao meu curso de 
 * **Recursos**: Aqui, vou compartilhar links, tutoriais e quaisquer outros recursos úteis que eu encontrar durante o curso.
 * **Notas**: Manterei minhas anotações pessoais neste repositório, documentando conceitos-chave, exemplos de código e dicas importantes.
 
-## Progresso
- * ✅Aula 1: Setup
- * ✅Aula 2: Fundamentals
- * ✅Aula 3: Data Types
- * ✅Aula 4: String, Type Conversion, Constant, null
- * ✅Aula 5: Operators
- * 🔲Aula 6: Loop
- * 🔲Aula 7: Collections [ List, Set, Map ]
- * 🔲Aula 8: Function
- * 🔲Aula 9: Class
- * 🔲Aula 10: Exception Handling
- * 🔲Aula 11: Conclusion
+## TOPICS
+ * ✅Dart Variables
+ * ✅Dart Data Types
+ * ✅Dart Lists
+ * 🔲Dart Maps
+ * 🔲Dart Logic
+ * 🔲Dart Function
+ * 🔲Dart User Input
+ * 🔲Dart User Input Conversion
+ * 🔲Dart Fizzbuzz
+ * 🔲Dart Classes and OOP
+ * 🔲Dart Classes Without Initialization
    
 ## Como Contribuir
 Se você tiver sugestões, correções ou quiser contribuir de alguma forma com este curso, fique à vontade para abrir uma issue ou enviar um pull request. Agradeço antecipadamente qualquer ajuda para melhorar este material e torná-lo mais útil para a comunidade.
