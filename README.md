@@ -18,14 +18,14 @@ Este repositório contém informações e projetos relacionados ao meu curso de 
  * ✅Dart Variables
  * ✅Dart Data Types
  * ✅Dart Lists
- * 🔲Dart Maps
- * 🔲Dart Logic
- * 🔲Dart Function
- * 🔲Dart User Input
- * 🔲Dart User Input Conversion
- * 🔲Dart Fizzbuzz
- * 🔲Dart Classes and OOP
- * 🔲Dart Classes Without Initialization
+ * ✅Dart Maps
+ * ✅Dart Logic
+ * ✅Dart Function
+ * ✅Dart User Input
+ * ✅Dart User Input Conversion
+ * ✅Dart Fizzbuzz
+ * ✅Dart Classes and OOP
+ * ✅Dart Classes Without Initialization
    
 ## Como Contribuir
 Se você tiver sugestões, correções ou quiser contribuir de alguma forma com este curso, fique à vontade para abrir uma issue ou enviar um pull request. Agradeço antecipadamente qualquer ajuda para melhorar este material e torná-lo mais útil para a comunidade.
